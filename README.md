@@ -1,5 +1,3 @@
-theme: hacker
-
 # The art of evolving from humanitarian to human
 
 > <u>Intelligence is the ability to avoid doing work, yet getting the work done.</u>
