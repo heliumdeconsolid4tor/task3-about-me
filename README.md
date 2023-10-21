@@ -47,3 +47,7 @@ tellJoke();
 ```
 
 Vi ses!
+
+theme: hacker
+
+еруьуер
