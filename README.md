@@ -5,6 +5,7 @@
 _Linus Torvalds_
 
 ![Face](https://http.cat/images/102.jpg)
+
 _The author of all this in [propria persona](https://www.merriam-webster.com/dictionary/in%20propria%20persona) in a permanent state_
 
 
